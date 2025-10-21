@@ -67,6 +67,6 @@ Hasilnya berupa bilangan pecahan (float).
 <img width="880" height="1227" alt="Blank diagram" src="https://github.com/user-attachments/assets/393cb29a-38ea-466e-9d68-edcacb648a8a" />
 
 ## Flowchart untuk menentukan dari N :    
-<img width="880" height="1220" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/daf5d44a-d8b5-4c94-8ff8-7834614040fe" />
+![flwchrt 2](https://github.com/user-attachments/assets/097efca5-8c2d-44ed-9bae-700dfe99a259)
 
 
