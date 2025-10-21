@@ -62,3 +62,11 @@ print("Hasil pembagian {1}/{0} = {2}".format(a, b, a / b))
 Penjelasan :   
 Operator / digunakan untuk menghitung hasil pembagian dua angka.    
 Hasilnya berupa bilangan pecahan (float).   
+
+## Flowcahrt bilangan terbesar dari 3 bilangan :    
+<img width="880" height="1227" alt="Blank diagram" src="https://github.com/user-attachments/assets/393cb29a-38ea-466e-9d68-edcacb648a8a" />
+
+## Flowchart untuk menentukan dari N :    
+<img width="880" height="1220" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/daf5d44a-d8b5-4c94-8ff8-7834614040fe" />
+
+
